@@ -51,7 +51,3 @@ pip install matplotlib plotly scikit-learn
 ├── étude IA convo.pdf       # Rapport d'étude sur les CNN
 └── README.md
 ```
-
-## Licence
-
-Ce projet est distribué sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
